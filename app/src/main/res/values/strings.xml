@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings for main_activity -->
+    <string name="add_event_button_name">Add event</string>
+    <!--  -->
+
+
+    <!-- Strings for add_event_activity -->
+    <string name="title_activity_add_event">Add event</string>
+    <string name="input_category">Catalog:</string>
+    <string name="input_event">Event:</string>
+    <string name="number_of_times">Number of times:</string>
+    <string name="done_button_name">Done</string>
+    <!--  -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
